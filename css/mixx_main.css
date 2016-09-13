@@ -1,0 +1,33 @@
+body {
+	background-image: url("../images/THE MIXX background.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 100%;
+	background-color: black;
+			
+	font-family: Georgia, Times, "Times New Roman", serif;
+
+	color: lightgrey;
+
+}
+
+p {
+
+ font-family: Georgia, Times, "Times New Roman", serif;
+
+ color: lightgrey;
+ }
+ 
+ol, li {
+	color: lightgrey;
+	font-size: 22;
+	
+} 
+
+h1, h2, h3, h4, h5, h6, td {
+
+ font-family: Georgia, Times, "Times New Roman", serif;
+
+ color: lightgrey;
+
+}
